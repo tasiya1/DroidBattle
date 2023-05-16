@@ -237,7 +237,7 @@ public class Main {
 		if (option.equals("custom")) {
 			System.out.println("\n\tВведіть координати (x, y) для кожного дроїда (межі - від 0 до 20). \n\n");
 			setCustom(droids1); //користувач розставляє дроїдів
-			setCustom(droids1);
+			setCustom(droids2);
 		}
 		else {
 			setLucky(droids1); //а як ні, то встановлюється режим "щасливчик"
